@@ -48,9 +48,12 @@ body {
 }
 
 .second-container {
+  background-color: var(--c3);
+  box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
   padding: 25px 100px;
   border-radius: 10px;
   transition: all 0.5s ease-out;
+  text-shadow: 2px 1px 10px black;
 }
 .second-container:hover {
   padding: 25px 50px;
@@ -68,6 +71,9 @@ a:hover {
   font-size: 1.5rem;
   transition: all 100ms ease-in-out;
   font-weight: bold;
+}
+a:visited {
+  color: rgb(255, 240, 199);
 }
 
 li {
