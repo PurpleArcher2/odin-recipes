@@ -1,6 +1,4 @@
 # Recipes Webpage 
 
 ## About 
-A project made as a practice for Odin Project which features recipes of Armenian foods.
-
-## Screenshots 
+A project made as a practice for The Odin Project which features recipes of Armenian foods.
